@@ -1,0 +1,51 @@
+types of functions:
+1. pre-defined/in-built
+2. user defined
+
+//WAP to show the working and declaration of functions in Scala
+object Ob 
+{
+  def main(args: Array[String])
+  {
+    var result=function1()
+    println(result)
+  }
+  def function1()=   //function declaration
+  {
+    var a=10
+    a
+  }
+}
+//parameterized functions
+object Ob1
+{
+  def main(args: Array[String])
+  {
+    function(10,20)
+  }
+  def function(a:Int,b:Int)
+  {
+    var c=a+b 
+    println(c)
+  }
+}
+
+//normal function with parameterized functions 
+object Ob1
+{
+  def main(args: Array[String])
+  {
+    function(10,20)
+    m1()
+  }
+  def function(a:Int,b:Int)
+  {
+    var c=a+b 
+    println(c)
+  }
+  def m1()
+  {
+    println("hello!")
+  }
+}
+
