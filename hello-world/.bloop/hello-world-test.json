@@ -2,29 +2,29 @@
     "version": "1.4.0",
     "project": {
         "name": "hello-world-test",
-        "directory": "D:\\Scala Files\\hello-world",
-        "workspaceDir": "D:\\Scala Files\\hello-world",
+        "directory": "D:\\GitHub Repo\\Scala-Codes\\hello-world",
+        "workspaceDir": "D:\\GitHub Repo\\Scala-Codes\\hello-world",
         "sources": [
-            "D:\\Scala Files\\hello-world\\src\\test\\scala",
-            "D:\\Scala Files\\hello-world\\src\\test\\scala-2.13",
-            "D:\\Scala Files\\hello-world\\src\\test\\scala-2",
-            "D:\\Scala Files\\hello-world\\src\\test\\java",
-            "D:\\Scala Files\\hello-world\\target\\scala-2.13\\src_managed\\test",
-            "D:\\Scala Files\\hello-world\\first.scala"
+            "D:\\GitHub Repo\\Scala-Codes\\hello-world\\src\\test\\scala",
+            "D:\\GitHub Repo\\Scala-Codes\\hello-world\\src\\test\\scala-2.13",
+            "D:\\GitHub Repo\\Scala-Codes\\hello-world\\src\\test\\scala-2",
+            "D:\\GitHub Repo\\Scala-Codes\\hello-world\\src\\test\\java",
+            "D:\\GitHub Repo\\Scala-Codes\\hello-world\\target\\scala-2.13\\src_managed\\test",
+            "D:\\GitHub Repo\\Scala-Codes\\hello-world\\first.scala"
         ],
         "dependencies": [
             "hello-world"
         ],
         "classpath": [
-            "D:\\Scala Files\\hello-world\\.bloop\\hello-world\\scala-2.13\\classes",
+            "D:\\GitHub Repo\\Scala-Codes\\hello-world\\.bloop\\hello-world\\scala-2.13\\classes",
             "C:\\Users\\Disha Singh\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-library\\2.13.12\\scala-library-2.13.12.jar",
             "C:\\Users\\Disha Singh\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\modules\\scala-parser-combinators_2.13\\2.3.0\\scala-parser-combinators_2.13-2.3.0.jar"
         ],
-        "out": "D:\\Scala Files\\hello-world\\.bloop\\hello-world",
-        "classesDir": "D:\\Scala Files\\hello-world\\.bloop\\hello-world\\scala-2.13\\test-classes",
+        "out": "D:\\GitHub Repo\\Scala-Codes\\hello-world\\.bloop\\hello-world",
+        "classesDir": "D:\\GitHub Repo\\Scala-Codes\\hello-world\\.bloop\\hello-world\\scala-2.13\\test-classes",
         "resources": [
-            "D:\\Scala Files\\hello-world\\src\\test\\resources",
-            "D:\\Scala Files\\hello-world\\target\\scala-2.13\\resource_managed\\test"
+            "D:\\GitHub Repo\\Scala-Codes\\hello-world\\src\\test\\resources",
+            "D:\\GitHub Repo\\Scala-Codes\\hello-world\\target\\scala-2.13\\resource_managed\\test"
         ],
         "scala": {
             "organization": "org.scala-lang",
@@ -119,7 +119,7 @@
             "config": {
                 "home": "C:\\Program Files\\Java\\jdk-11",
                 "options": [
-                    "-Duser.dir=D:\\Scala Files\\hello-world"
+                    "-Duser.dir=D:\\GitHub Repo\\Scala-Codes\\hello-world"
                 ]
             },
             "mainClass": [

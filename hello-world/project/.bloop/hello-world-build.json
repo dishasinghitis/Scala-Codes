@@ -2,15 +2,15 @@
     "version": "1.4.0",
     "project": {
         "name": "hello-world-build",
-        "directory": "D:\\Scala Files\\hello-world\\project",
-        "workspaceDir": "D:\\Scala Files\\hello-world\\project",
+        "directory": "D:\\GitHub Repo\\Scala-Codes\\hello-world\\project",
+        "workspaceDir": "D:\\GitHub Repo\\Scala-Codes\\hello-world\\project",
         "sources": [
-            "D:\\Scala Files\\hello-world\\project\\src\\main\\scala",
-            "D:\\Scala Files\\hello-world\\project\\src\\main\\scala-2.12",
-            "D:\\Scala Files\\hello-world\\project\\src\\main\\scala-2",
-            "D:\\Scala Files\\hello-world\\project\\src\\main\\java",
-            "D:\\Scala Files\\hello-world\\project\\src\\main\\scala-sbt-1.0",
-            "D:\\Scala Files\\hello-world\\project\\target\\scala-2.12\\sbt-1.0\\src_managed\\main"
+            "D:\\GitHub Repo\\Scala-Codes\\hello-world\\project\\src\\main\\scala",
+            "D:\\GitHub Repo\\Scala-Codes\\hello-world\\project\\src\\main\\scala-2.12",
+            "D:\\GitHub Repo\\Scala-Codes\\hello-world\\project\\src\\main\\scala-2",
+            "D:\\GitHub Repo\\Scala-Codes\\hello-world\\project\\src\\main\\java",
+            "D:\\GitHub Repo\\Scala-Codes\\hello-world\\project\\src\\main\\scala-sbt-1.0",
+            "D:\\GitHub Repo\\Scala-Codes\\hello-world\\project\\target\\scala-2.12\\sbt-1.0\\src_managed\\main"
         ],
         "dependencies": [
             
@@ -18,7 +18,7 @@
         "classpath": [
             "C:\\Users\\Disha Singh\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\sbt\\1.9.7\\sbt-1.9.7.jar",
             "C:\\Users\\Disha Singh\\.sbt\\boot\\scala-2.12.18\\lib\\scala-library.jar",
-            "C:\\Users\\Disha Singh\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\ch\\epfl\\scala\\sbt-bloop_2.12_1.0\\1.5.13\\sbt-bloop_2.12_1.0-1.5.13.jar",
+            "C:\\Users\\Disha Singh\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\ch\\epfl\\scala\\sbt-bloop_2.12_1.0\\1.5.15\\sbt-bloop_2.12_1.0-1.5.15.jar",
             "C:\\Users\\Disha Singh\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\main_2.12\\1.9.7\\main_2.12-1.9.7.jar",
             "C:\\Users\\Disha Singh\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\io_2.12\\1.9.7\\io_2.12-1.9.7.jar",
             "C:\\Users\\Disha Singh\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\ch\\epfl\\scala\\bloop-config_2.12\\1.5.5\\bloop-config_2.12-1.5.5.jar",
@@ -103,11 +103,11 @@
             "C:\\Users\\Disha Singh\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\reactivestreams\\reactive-streams\\1.0.3\\reactive-streams-1.0.3.jar",
             "C:\\Users\\Disha Singh\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\com\\typesafe\\config\\1.4.2\\config-1.4.2.jar"
         ],
-        "out": "D:\\Scala Files\\hello-world\\project\\.bloop\\hello-world-build",
-        "classesDir": "D:\\Scala Files\\hello-world\\project\\.bloop\\hello-world-build\\scala-2.12\\sbt-1.0\\classes",
+        "out": "D:\\GitHub Repo\\Scala-Codes\\hello-world\\project\\.bloop\\hello-world-build",
+        "classesDir": "D:\\GitHub Repo\\Scala-Codes\\hello-world\\project\\.bloop\\hello-world-build\\scala-2.12\\sbt-1.0\\classes",
         "resources": [
-            "D:\\Scala Files\\hello-world\\project\\src\\main\\resources",
-            "D:\\Scala Files\\hello-world\\project\\target\\scala-2.12\\sbt-1.0\\resource_managed\\main"
+            "D:\\GitHub Repo\\Scala-Codes\\hello-world\\project\\src\\main\\resources",
+            "D:\\GitHub Repo\\Scala-Codes\\hello-world\\project\\target\\scala-2.12\\sbt-1.0\\resource_managed\\main"
         ],
         "scala": {
             "organization": "org.scala-lang",
@@ -214,7 +214,7 @@
             "config": {
                 "home": "C:\\Program Files\\Java\\jdk-11",
                 "options": [
-                    "-Duser.dir=D:\\Scala Files\\hello-world\\project"
+                    "-Duser.dir=D:\\GitHub Repo\\Scala-Codes\\hello-world\\project"
                 ]
             },
             "mainClass": [
@@ -223,12 +223,12 @@
             "runtimeConfig": {
                 "home": "C:\\Program Files\\Java\\jdk-11",
                 "options": [
-                    "-Duser.dir=D:\\Scala Files\\hello-world\\project"
+                    "-Duser.dir=D:\\GitHub Repo\\Scala-Codes\\hello-world\\project"
                 ]
             },
             "classpath": [
-                "D:\\Scala Files\\hello-world\\project\\.bloop\\hello-world-build\\scala-2.12\\sbt-1.0\\classes",
-                "C:\\Users\\Disha Singh\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\ch\\epfl\\scala\\sbt-bloop_2.12_1.0\\1.5.13\\sbt-bloop_2.12_1.0-1.5.13.jar",
+                "D:\\GitHub Repo\\Scala-Codes\\hello-world\\project\\.bloop\\hello-world-build\\scala-2.12\\sbt-1.0\\classes",
+                "C:\\Users\\Disha Singh\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\ch\\epfl\\scala\\sbt-bloop_2.12_1.0\\1.5.15\\sbt-bloop_2.12_1.0-1.5.15.jar",
                 "C:\\Users\\Disha Singh\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\ch\\epfl\\scala\\bloop-config_2.12\\1.5.5\\bloop-config_2.12-1.5.5.jar",
                 "C:\\Users\\Disha Singh\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\com\\github\\plokhotnyuk\\jsoniter-scala\\jsoniter-scala-core_2.12\\2.4.0\\jsoniter-scala-core_2.12-2.4.0.jar",
                 "C:\\Users\\Disha Singh\\.sbt\\boot\\scala-2.12.18\\lib\\scala-library.jar"
@@ -239,17 +239,17 @@
                 {
                     "organization": "ch.epfl.scala",
                     "name": "sbt-bloop",
-                    "version": "1.5.13",
+                    "version": "1.5.15",
                     "configurations": "default",
                     "artifacts": [
                         {
                             "name": "sbt-bloop",
-                            "path": "C:\\Users\\Disha Singh\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\ch\\epfl\\scala\\sbt-bloop_2.12_1.0\\1.5.13\\sbt-bloop_2.12_1.0-1.5.13.jar"
+                            "path": "C:\\Users\\Disha Singh\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\ch\\epfl\\scala\\sbt-bloop_2.12_1.0\\1.5.15\\sbt-bloop_2.12_1.0-1.5.15.jar"
                         },
                         {
                             "name": "sbt-bloop",
                             "classifier": "sources",
-                            "path": "C:\\Users\\Disha Singh\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\ch\\epfl\\scala\\sbt-bloop_2.12_1.0\\1.5.13\\sbt-bloop_2.12_1.0-1.5.13-sources.jar"
+                            "path": "C:\\Users\\Disha Singh\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\ch\\epfl\\scala\\sbt-bloop_2.12_1.0\\1.5.15\\sbt-bloop_2.12_1.0-1.5.15-sources.jar"
                         }
                     ]
                 },
